@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 15
+    },
+    "auditLog": "LogFiles\\.638b53abfe3f0d002789bf63478c25bdb0e5861d-audit.json",
+    "files": [
+        {
+            "date": 1604999841635,
+            "name": "LogFiles\\OpDash-2020-11-10.log",
+            "hash": "fffdb51f3f0d6d04c79c2d7165dedecb"
+        }
+    ]
+}

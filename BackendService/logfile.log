@@ -1,0 +1,3 @@
+[ Tue, 10 Nov 2020 09:29:30 GMT ] | [ INFO ] | [ http GET /login "res":{"statuscode": 200},"req":{"url":/login,"method":GET,"httpVersion":1.1,"originalUrl":/login,"httpVersion":1.1,"query":{},"protocol":http }  ] 
+[ Tue, 10 Nov 2020 09:30:13 GMT ] | [ INFO ] | [ http POST /login "res":{"statuscode": 200},"req":{"url":/login,"method":POST,"httpVersion":1.1,"originalUrl":/login,"httpVersion":1.1,"query":{},"protocol":http }  ] 
+[ Tue, 10 Nov 2020 09:30:50 GMT ] | [ INFO ] | [ http POST /logout "res":{"statuscode": 200},"req":{"url":/logout,"method":POST,"httpVersion":1.1,"originalUrl":/logout,"httpVersion":1.1,"query":{},"protocol":http }  ] 
